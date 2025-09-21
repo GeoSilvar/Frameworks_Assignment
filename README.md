@@ -1,3 +1,6 @@
+APP FEATURES
+
+
 Interactive Sidebar: Sliders to control the number of items shown and year range filtering
 
 Multiple Visualizations:
